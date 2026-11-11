@@ -1,0 +1,26 @@
+# NetBeans / Ant
+/build/
+/dist/
+/nbproject/private/
+/nbproject/Package-*.bash
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+
+# Compilados de Java
+*.class
+*.jar.dep
+*.war
+*.ear
+hs_err_pid*
+
+# Sistema operativo
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# IDEs
+.idea/
+*.iml
+.vscode/
